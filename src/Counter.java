@@ -28,7 +28,7 @@ public class Counter {
     }
     private void incCounter() {
         this.counter++;
-        System.out.println("Текущее значение счетчика: " + this.counter);
+        System.out.println("Текущее значениеgi счетчика: " + this.counter);
     }
     private void stopCounter(){
         System.out.println("Текущее значение счетчика: " + this.counter);
